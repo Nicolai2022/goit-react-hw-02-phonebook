@@ -5,10 +5,11 @@ import { Container, Title, SubTitle } from 'components/App/App.styled';
 class App extends React.Component {
   state = {
     contacts: [
-      { id: 'id-1', name: 'Rosie Simpson', number: '459-12-56' },
-      { id: 'id-2', name: 'Hermione Kline', number: '443-89-12' },
-      { id: 'id-3', name: 'Eden Clements', number: '645-17-79' },
-      { id: 'id-4', name: 'Annie Copeland', number: '227-91-26' },
+      { id: 'id-1', name: 'Rosie Simpson', number: '444-33-55' },
+      { id: 'id-2', name: 'Hermione Kline', number: '777-88-22' },
+      { id: 'id-3', name: 'Eden Clements', number: '888-17-44' },
+      { id: 'id-4', name: 'Ann Klodme', number: '123-45-67' },
+      { id: 'id-5', name: 'Ema Golovko', number: '999-44-55' },
     ],
     filter: '',
   };
