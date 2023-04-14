@@ -12,14 +12,14 @@ export const Container = styled.div`
 
 export const Title = styled.h1`
   margin: 0;
-  font-size: 22px;
+  font-size: 24px;
   font-weight: 700;
   text-align: center;
 `;
 
 export const SubTitle = styled.h2`
   margin: 0;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 700;
   text-align: center;
 `;
