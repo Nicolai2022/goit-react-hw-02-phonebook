@@ -26,3 +26,8 @@ export const ContactNotification = styled.p`
   margin: 0;
   padding: 0;
 `;
+
+export const Input = styled.input`
+  background-color: #a1e4e0;
+  cursor: pointer;
+`;

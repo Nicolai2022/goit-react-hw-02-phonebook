@@ -31,3 +31,7 @@ export const FormBtn = styled.button`
     color: #f1a2f4;
   }
 `;
+
+export const Input = styled.input`
+  background-color: #a1e4e0;
+`;
