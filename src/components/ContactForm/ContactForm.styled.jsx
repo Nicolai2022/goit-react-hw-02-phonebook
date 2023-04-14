@@ -15,19 +15,19 @@ export const Label = styled.label`
   display: flex;
   flex-direction: column;
   gap: 5px;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700;
 `;
 
 export const FormBtn = styled.button`
   border: 1px solid #000;
-  border-radius: 3px;
-  background-color: #f1f5c4;
+  border-radius: 5px;
+  background-color: #c1f5c4;
   color: #000;
   cursor: pointer;
 
   &:hover {
-    background-color: #000;
-    color: #f1f2f4;
+    background-color: #a1e4e0;
+    color: #f1a2f4;
   }
 `;

@@ -13,7 +13,7 @@ export const ContactText = styled.p`
   margin: 0;
   padding: 0;
   text-align: left;
-  font-size: 15px;
+  font-size: 16px;
 `;
 
 export const DeleteItemBtn = styled.button`
@@ -27,6 +27,6 @@ export const DeleteItemBtn = styled.button`
 
   &:hover {
     background-color: #c0f010;
-    color: #f8f6f2;
+    color: #000;
   }
 `;

@@ -10,4 +10,5 @@ export const Label = styled.label`
   border-radius: 7px;
   padding: 15px;
   width: 250px;
+  background-color: #c1f5c4;
 `;
