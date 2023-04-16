@@ -8,7 +8,8 @@ export const Container = styled.div`
   align-items: center;
   margin: 0 auto;
   padding: 20px;
-  color: #c1a0c0;
+  color: #c949c0;
+  background-color: #c1e1e0;
 `;
 
 export const Title = styled.h1`
@@ -24,3 +25,8 @@ export const SubTitle = styled.h2`
   font-weight: 700;
   text-align: center;
 `;
+
+export const Input = styled.input`
+background-color: #a1e4e0;
+`;
+

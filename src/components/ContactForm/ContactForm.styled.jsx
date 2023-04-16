@@ -34,4 +34,5 @@ export const FormBtn = styled.button`
 
 export const Input = styled.input`
   background-color: #a2e4e0;
+  cursor: pointer;
 `;
