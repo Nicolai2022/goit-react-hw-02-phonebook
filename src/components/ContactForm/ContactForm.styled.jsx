@@ -22,16 +22,16 @@ export const Label = styled.label`
 export const FormBtn = styled.button`
   border: 1px solid #000;
   border-radius: 5px;
-  background-color: #c1f5c4;
+  background-color: #c2f5c4;
   color: #000;
   cursor: pointer;
 
   &:hover {
     background-color: #a1e4e0;
-    color: #f1a2f4;
+    color: #f1a3f4;
   }
 `;
 
 export const Input = styled.input`
-  background-color: #a1e4e0;
+  background-color: #a2e4e0;
 `;

@@ -28,6 +28,6 @@ export const ContactNotification = styled.p`
 `;
 
 export const Input = styled.input`
-  background-color: #a1e4e0;
+  background-color: #a2e4e0;
   cursor: pointer;
 `;
